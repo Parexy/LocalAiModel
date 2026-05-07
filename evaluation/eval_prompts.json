@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "prompt": "Find a research paper about retrieval-augmented generation published before 2021 with more than 500 citations.",
+    "purpose": "Tests before-year and minimum citation constraint"
+  },
+  {
+    "id": 2,
+    "prompt": "Find a research paper about AI agents using tools after 2022 with at least 100 citations.",
+    "purpose": "Tests recent AI agents topic and minimum citation constraint"
+  },
+  {
+    "id": 3,
+    "prompt": "Find a recent paper about AI agents using tools and explain whether it would be useful for autonomous software agents.",
+    "purpose": "Tests broad recent topic with weak constraints"
+  },
+  {
+    "id": 4,
+    "prompt": "Find a paper about chain-of-thought prompting published in 2022 with at least 1000 citations.",
+    "purpose": "Tests exact year and high citation count"
+  },
+  {
+    "id": 5,
+    "prompt": "Find a paper about code generation with large language models after 2021 with at least 300 citations.",
+    "purpose": "Tests software engineering related LLM topic"
+  },
+  {
+    "id": 6,
+    "prompt": "Find a paper about hallucination detection in LLMs after 2023 with at least 50 citations.",
+    "purpose": "Tests recent topic and moderate citation constraint"
+  },
+  {
+    "id": 7,
+    "prompt": "Find a paper about federated learning before 2018 with more than 1000 citations.",
+    "purpose": "Tests older high-impact research topic"
+  },
+  {
+    "id": 8,
+    "prompt": "Find a paper about quantum blockchain agents after 2024 with at least 10000 citations.",
+    "purpose": "Tests no-result case"
+  },
+  {
+    "id": 9,
+    "prompt": "Find a paper about RAG.",
+    "purpose": "Tests ambiguous abbreviation"
+  },
+  {
+    "id": 10,
+    "prompt": "Find a paper about autonomous agents with fewer than 20 citations after 2023.",
+    "purpose": "Tests maximum citation constraint"
+  }
+]
