@@ -50,7 +50,7 @@ No citation count was invented.
 
 **Notes:**
 
-TODO
+It did not find a paper matching this likely due to keywords used not matching anything. This could be due to terms being too new or something else.
 
 ---
 
@@ -93,7 +93,7 @@ The selected paper "Empowering biomedical discovery with AI agents" matches the 
 
 **Notes:**
 
-TODO
+Successfully found a matching paper and included correct metadata and provided a explanation on if it thinks the paper matches the given constraints.
 
 ---
 
@@ -134,10 +134,6 @@ The selected paper, "Modelling social action for AI agents" by Cristiano Castelf
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 0 | 1 | 1 | 1 | 1 | 5/6 |
 
-**Notes:**
-
-TODO
-
 ---
 
 ## Prompt 4
@@ -169,10 +165,6 @@ No citation count was invented.
 | Relevant | Year OK | Citation OK | Source OK | No hallucination | Explanation OK | Score |
 |---:|---:|---:|---:|---:|---:|---:|
 | 0 | 0 | 0 | 0 | 1 | 1 | 2/6 |
-
-**Notes:**
-
-TODO
 
 ---
 
@@ -213,10 +205,6 @@ This paper matches the user's request because it deals with code generation usin
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 1 | 1 | 1 | 1 | 1 | 6/6 |
 
-**Notes:**
-
-TODO
-
 ---
 
 ## Prompt 6
@@ -255,10 +243,6 @@ The selected paper "A Survey on Hallucination in Large Language Models: Principl
 | Relevant | Year OK | Citation OK | Source OK | No hallucination | Explanation OK | Score |
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 1 | 1 | 1 | 1 | 1 | 6/6 |
-
-**Notes:**
-
-TODO
 
 ---
 
@@ -299,10 +283,6 @@ The selected paper "Federated Learning: Strategies for Improving Communication E
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 1 | 1 | 1 | 1 | 1 | 6/6 |
 
-**Notes:**
-
-TODO
-
 ---
 
 ## Prompt 8
@@ -334,10 +314,6 @@ No citation count was invented.
 | Relevant | Year OK | Citation OK | Source OK | No hallucination | Explanation OK | Score |
 |---:|---:|---:|---:|---:|---:|---:|
 | 0 | 0 | 0 | 0 | 1 | 1 | 2/6 |
-
-**Notes:**
-
-TODO
 
 ---
 
@@ -378,10 +354,6 @@ This paper matches the user's request for a paper about RAG because its title ex
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 1 | 1 | 1 | 1 | 6 | 6/6 |
 
-**Notes:**
-
-TODO
-
 ---
 
 ## Prompt 10
@@ -416,6 +388,6 @@ No citation count was invented.
 
 **Notes:**
 
-TODO
+This could have failed due to there not being a paper after 2023 with fewer than 20 citations, when using this source.
 
 ---
