@@ -437,3 +437,21 @@ No citation count was invented.
 This could have failed due to there not being a paper after 2023 with fewer than 20 citations, when using this source.
 
 ---
+
+## Short Evaluation of Agent Performance
+
+The agent worked best for clear prompts with realistic year and citation constraints. It was able to use external paper sources, apply filters, and return structured answers with citation count sources.
+
+The main weakness was search reliability. Some prompts returned no result even though a relevant paper likely exists, especially when the paper database used different wording than the user prompt.
+
+The agent handled no-result cases safely by refusing to invent papers or citation counts. Semantic Scholar rate limits were handled by falling back to OpenAlex.
+
+Overall, the agent is conservative and safe, but its topic matching and search strategy could be improved.
+
+## Contribution
+
+This project was completed individually.
+
+### Lukas Askholm
+
+- Was made by Lukas with the assitance of openai model gpt5.5
