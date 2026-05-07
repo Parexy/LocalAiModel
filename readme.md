@@ -4,10 +4,6 @@
 
 - Python 3.11
 - Ollama
-- llama3.1:8b
-- AutoGen
-- requests
-- python-dotenv
 
 ### Install required software
 
